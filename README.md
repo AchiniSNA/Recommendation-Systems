@@ -10,3 +10,5 @@ Discover movies you'll love based on your preferences!
 ### Content based Movie Recommender folder contains the application
 ## UI of the Application
 
+![User Interface](UI.png)
+
