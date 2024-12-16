@@ -7,7 +7,7 @@ Discover movies you'll love based on your preferences!
 - View movie posters and titles.
 
 
-### Content based Movie Recommender folder contains the application
+### Movie Recommender folder contains the application
 ## UI of the Application
 
 ![User Interface](UI.png)
